@@ -15,6 +15,9 @@ FXserver ESX (eden_gofast)
 4) Delete Job Sherif in client/main.lua and server/main.lua 
 6) Found troll
 
+
+GO HERE x = -1409.0158691406, y = 546.56646728516, z = 121.92869567871 to start
+
 Go Fast: 
 -> 1 seul point de depart 
 -> ramdom sur point d'arrivé 
